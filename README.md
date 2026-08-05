@@ -333,7 +333,7 @@ The clock division and frequency synthesis techniques demonstrated in this proje
 **Naveen A**
 B.E. Electrical and Electronics Engineering
 
-Naveen is an aspiring FPGA and digital design engineer with a strong interest in RTL design, digital communication systems, and hardware verification. This project reflects a hands-on approach to understanding clock management techniques that are fundamental to real-world FPGA and ASIC designs, built with an emphasis on clean, synthesizable RTL and thorough functional verification.
+ This project reflects a hands-on approach to understanding clock management techniques that are fundamental to real-world FPGA and ASIC designs, built with an emphasis on clean, synthesizable RTL and thorough functional verification.
 
 ---
 
